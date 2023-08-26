@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.menu-container{
+    display: flex;
+    background-color: black;
+    list-style: none;
+    justify-content: space-around;
+    background-color: ;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    font-size: 25px;
+}
+.item{
+    margin-right: 20px;
+}
+.logo{
+    align-items: center;
+    justify-content: center;
+}
+.logo-image{
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
